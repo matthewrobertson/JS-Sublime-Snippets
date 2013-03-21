@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[prototype.${1:method_name} = function(${2:first_argument}) {
+	${0:// body...}
+};
+]]></content>
+    <tabTrigger>proto</tabTrigger>
+    <scope>source.js</scope>
+    <description>Prototype</description>
+</snippet>
